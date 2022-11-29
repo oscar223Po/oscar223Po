@@ -1,7 +1,6 @@
-[![MasterHead](https://anime-chan.me/uploads/posts/2018-06/1528830641_pixel-gif-pixel-art-redwk-podborka-4527245.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)]()
 <h1 align="center">Hi 👋, I'm Oscar Zhantaev</h1>
-<h3 align="center">Frontend-Developer | Web-Designer from Kyrgyzstan</h3>
-<img align=“right” width=“400” src=“https://miro.medium.com/freeze/max/1600/1*hQR3_tCL_phZgIK80wnOcA.gif”>
+<h3 align="center">Frontend-Developer | Web-Designer | HTML-Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar223po&label=Profile%20views&color=0e75b6&style=flat" alt="oscar223po" /> </p>
 
@@ -11,9 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~0128363853c0214959?viewMode=1](https://www.upwork.com/freelancers/~0128363853c0214959?viewMode=1)
 
-- 💬 Ask me about **CSS3/HTML5, JS, SCSS/Sass, Gulp, BEM**
+- 💬 Ask me about **| CSS3/HTML5 | JavaScript | SCSS/Sass | GULP | Webpack | Adaptive/Responsive |**
 
 - 📫 How to reach me **https://t.me/svyourself**
+
+- 📄 Know about my experiences [https://kwork.ru/user/oscaritooscarito](https://kwork.ru/user/oscaritooscarito)
 
 - ⚡ Fun fact **I'm tidy person**
 
