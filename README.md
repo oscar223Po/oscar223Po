@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.Js**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~0128363853c0214959?viewMode=1](https://www.upwork.com/freelancers/~0128363853c0214959?viewMode=1)
+- 👨‍💻 All of my projects are available at [https://www.weblancer.net/users/oscaritoparapito/portfolio/](https://www.weblancer.net/users/oscaritoparapito/portfolio/)
 
 - 💬 Ask me about **| CSS3/HTML5 | JavaScript | SCSS/Sass | GULP | Webpack | Adaptive/Responsive |**
 
