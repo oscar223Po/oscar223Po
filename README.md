@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://t.me/svyourself**
 
-- 📄 Know about my experiences [https://kwork.ru/user/oscaritooscarito](https://kwork.ru/user/oscaritooscarito)
+- 📄 Know about my experiences [https://kwork.ru/user/oscaritooscarito](https://kwork.com/user/oscaritooscarito)
 
 - ⚡ Fun fact **I'm tidy person**
 
