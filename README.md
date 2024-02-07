@@ -1,19 +1,21 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://gifer.com/xK))
 <h1 align="center">Hi 👋, I'm Oscar & Gold</h1>
 <h3 align="center">Frontend-Developer | Web-Designer | HTML-Developer</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar223po&label=Profile%20views&color=0e75b6&style=flat" alt="oscar223po" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=oscar223po&label=Profile%20views&color=0e75b6&style=flat](https://gifer.com/4P4X)" alt="oscar223po" /> </p>
+
+- ⚡ Interesting fact **Jesus Is King**
 
 - 🌱 I’m currently learning **Type Script**
-
-- 👨‍💻 All of my projects are available at [https://github.com/oscar223Po?tab=repositories](https://github.com/oscar223Po?tab=repositories)
 
 - 💬 Ask me about **React, Html, Scss, JavaScript**
 
 - 📫 How to reach me **https://t.me/svyourself**
 
-- 📄 Freelance Accaunt Kwork [https://kwork.com/user/oscaritooscarito](https://kwork.com/user/oscaritooscarito)
+- 📄 Freelance Account On Kwork [https://kwork.com/user/oscaritooscarito](https://kwork.com/user/oscaritooscarito)
 
-- ⚡ Interesting fact **Jesus Is King**
+- 👨‍💻 All of my projects are available at [https://github.com/oscar223Po?tab=repositories](https://github.com/oscar223Po?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
