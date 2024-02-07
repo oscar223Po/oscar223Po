@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif](https://gifer.com/xK))]()
 <h1 align="center">Hi 👋, I'm Oscar & Gold</h1>
 <h3 align="center">Frontend-Developer | Web-Designer | HTML-Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=oscar223po&label=Profile%20views&color=0e75b6&style=flat](https://gifer.com/4P4X)" alt="oscar223po" /> </p>
 
