@@ -1,18 +1,18 @@
-[![MasterHead]([https://i.gifer.com/26er.gif))]()
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)]()
 <h1 align="center">Hi 👋, I'm Oscar & Gold</h1>
 <h3 align="center">Frontend-Developer | Web-Designer | HTML-Developer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=oscar223po&label=Profile%20views&color=0e75b6&style=flat](https://gifer.com/4P4X)" alt="oscar223po" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar223po&label=Profile%20views&color=0e75b6&style=flat" alt="oscar223po" /> </p>
 
 - ⚡ Interesting fact **Jesus Is King**
 
 - 🌱 I’m currently learning **Type Script**
 
-- 💬 Ask me about **React, Html, Scss, JavaScript**
-
 - 📫 How to reach me **https://t.me/svyourself**
 
-- 📄 Freelance Account On Kwork [https://kwork.com/user/oscaritooscarito](https://kwork.com/user/oscaritooscarito)
+- 💬 Ask me about **React, Html, Scss, JavaScript**
+
+- 📄 Freelance Account Kwork [https://kwork.com/user/oscaritooscarito](https://kwork.com/user/oscaritooscarito)
 
 - 👨‍💻 All of my projects are available at [https://github.com/oscar223Po?tab=repositories](https://github.com/oscar223Po?tab=repositories)
 
