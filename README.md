@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/oscar223Po/oscar223Po/assets/99406219/2d3ba462-7361-49dd-8c81-96ec04a7c39c)]()
+[![MasterHead](https://github.com/oscar223Po/oscar223Po/assets/99406219/dd32d8b3-1fda-4e4d-8a22-bf6bb8813179)]()
 <h1 align="center">Hi 👋, I'm Oscar & Gold</h1>
 <h3 align="center">Frontend-Developer | Web-Designer | HTML-Developer</h3>
 
