@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Oscar & Gold</h1>
 <h3 align="center">Frontend-Developer | Web-Designer | HTML-Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar223po&label=Profile%20views&color=0e75b6&style=flat" alt="oscar223po" /> </p>
-
 - ⚡ Interesting fact **Jesus Is King**
 
 - 🌱 I’m currently learning **Type Script**
