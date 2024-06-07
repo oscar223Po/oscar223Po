@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Type Script**
 
-- 📫 How to reach me **https://t.me/svyourself**
-
 - 💬 Ask me about **React, Css3, Html5, Scss, JavaScript**
 
 - 📄 Freelance Account Kwork [https://kwork.com/user/oscaritooscarito](https://kwork.com/user/oscaritooscarito)
