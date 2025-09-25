@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Css3, Html5, Scss, JavaScript**
 
-- 📄 Freelance Account Kwork [https://kwork.com/user/oscaritooscarito](https://kwork.com/user/oscaritooscarito)
+- 📄 Freelance Account Kwork [https://kwork.ru/user/frontend_oscar] (https://kwork.ru/user/frontend_oscar)
 
 - 👨‍💻 All of my projects are available at [https://github.com/oscar223Po?tab=repositories](https://github.com/oscar223Po?tab=repositories)
 
