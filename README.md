@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Type Script**
 
-- 📫 How to reach me <a target="_blank" href="https://t.me/svyourself">Telegram</a>
+- 📫 How to reach me <a href="https://t.me/svyourself">Contact me via Telegram</a>
 
 - 💬 Ask me about **React, Css3, Html5, Scss, JavaScript**
 
-- 📄 View The Freelance Account <a target="_blank" href="https://kwork.ru/user/frontend_oscar">Profile</a>
+- 📄 View The Freelance Account <a href="https://kwork.ru/user/frontend_oscar">Profile</a>
 
-- 👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/oscar223Po?tab=repositories">Repositories</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/oscar223Po?tab=repositories">Repositories</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
