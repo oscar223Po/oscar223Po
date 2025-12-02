@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/oscar223Po/oscar223Po/assets/99406219/dd32d8b3-1fda-4e4d-8a22-bf6bb8813179)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRieXkzOW93dXQ0cWo3cW01aHFic3FwbWx2Znk0Z3FkcHBzaHZzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)
 
 # Hi 👋, I'm Oscar Zhantaev
 
