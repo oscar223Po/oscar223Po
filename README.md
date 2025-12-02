@@ -19,17 +19,17 @@ I build thoughtful, maintainable, and scalable UI solutions with attention to de
 ---
 
 ## 📁 Projects & Profiles
-- <a href="https://github.com/oscar223Po?tab=repositories">GitHub Repositories</a>  
-- <a href="https://kwork.ru/user/frontend_oscar">Freelance Profile (Kwork)</a>  
-- <a href="https://t.me/svyourself">Contact me via Telegram</a>
+<a href="https://github.com/oscar223Po?tab=repositories">GitHub Repositories</a>  
+<a href="https://kwork.ru/user/frontend_oscar">View The Freelance Account</a>
+<a href="https://t.me/svyourself">Contact me via Telegram</a>
 
 ---
 
 ## 🎨 What I Do
-- Build responsive and accessible UI  
-- Write structured, scalable frontend architecture  
-- Turn designs into clean, maintainable code  
-- Focus on performance, semantics, and consistency  
+Build responsive and accessible UI  
+Write structured, scalable frontend architecture  
+Turn designs into clean, maintainable code  
+Focus on performance, semantics, and consistency  
 
 ---
 
