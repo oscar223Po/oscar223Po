@@ -19,9 +19,9 @@ I build thoughtful, maintainable, and scalable UI solutions with attention to de
 ---
 
 ## 📁 Projects & Profiles
-<a href="https://github.com/oscar223Po?tab=repositories">GitHub Repositories</a>  
-<a href="https://kwork.ru/user/frontend_oscar">View The Freelance Account</a>
-<a href="https://t.me/svyourself">Contact me via Telegram</a>
+- 📄 View The Freelance Account — <a href="https://kwork.ru/user/frontend_oscar">Profile</a>
+- 📫 How to reach me — <a href="https://t.me/svyourself">Contact me via Telegram</a>
+- 👨‍💻 All of my projects are available at — <a href="https://github.com/oscar223Po?tab=repositories">Repositories</a>
 
 ---
 
