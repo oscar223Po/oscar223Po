@@ -8,7 +8,11 @@
 
 <!-- SVG Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="160" />
+  <svg width="200" height="12" viewBox="0 0 200 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="2" rx="1" fill="#d9d9d9"/>
+    <rect y="5" width="200" height="2" rx="1" fill="#f0f0f0"/>
+    <rect y="10" width="200" height="2" rx="1" fill="#e5e5e5"/>
+  </svg>
 </p>
 
 ## 🧩 Tech Stack
@@ -25,31 +29,45 @@
   <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
 </p>
 
+<!-- SVG Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="140" />
+  <svg width="180" height="6" viewBox="0 0 180 6" xmlns="http://www.w3.org/2000/svg">
+    <rect width="180" height="2" rx="1" fill="#e2e2e2"/>
+    <rect y="4" width="180" height="2" rx="1" fill="#f3f3f3"/>
+  </svg>
 </p>
 
 ## 📁 Repositories
 
-Clean UI approaches, reusable components, minimal build setups, and polished frontend architecture.  
+Clean UI approaches, reusable components, minimal build setups, and polished frontend architecture:  
 👉 https://github.com/oscar223Po?tab=repositories
 
+<!-- SVG Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="120" />
+  <svg width="150" height="10" viewBox="0 0 150 10" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="5" cy="5" r="5" fill="#e5e5e5"/>
+    <circle cx="35" cy="5" r="5" fill="#dcdcdc"/>
+    <circle cx="65" cy="5" r="5" fill="#ededed"/>
+    <circle cx="95" cy="5" r="5" fill="#dcdcdc"/>
+    <circle cx="125" cy="5" r="5" fill="#e5e5e5"/>
+  </svg>
 </p>
 
 ## 💼 Freelance
 
-Taking on UI-focused development with attention to structure, consistency, and production-ready execution.
+I take on UI-focused development with attention to structure, consistency, and production-grade execution.
 
 **Kwork:**  
-https://kwork.ru/user/frontend_oscar
+https://kwork.ru/user/frontend_oscar  
 
 **Telegram:**  
-https://t.me/svyourself
+https://t.me/svyourself  
 
+<!-- SVG Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fade.png" width="130" />
+  <svg width="110" height="4" viewBox="0 0 110 4" xmlns="http://www.w3.org/2000/svg">
+    <rect width="110" height="4" rx="2" fill="#e8e8e8"/>
+  </svg>
 </p>
 
 ## 🧱 About Me
@@ -57,8 +75,12 @@ https://t.me/svyourself
 Frontend UI developer crafting responsive layouts, clean component systems, and maintainable workflows.  
 I value clarity, semantic structure, and a disciplined engineering process.
 
+<!-- SVG Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/small-line.png" width="100" />
+  <svg width="120" height="4" viewBox="0 0 120 4" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="2" rx="1" fill="#dedede"/>
+    <rect y="2" width="120" height="2" rx="1" fill="#f2f2f2"/>
+  </svg>
 </p>
 
 ## ⚡ Focus Areas
