@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/7c2cbaf2-2706-47d6-a448-81c8d2af9c1a)
+<img width="100%" height="auto" alt="videoframe_1305" src="https://github.com/user-attachments/assets/f61197a7-394a-40c1-93f5-9201f9b5897e" />
 
 # Hi 👋, I'm Oscar Zhantaev
 
