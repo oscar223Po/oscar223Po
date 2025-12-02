@@ -12,6 +12,4 @@
 
 - 👨‍💻 All of my projects are available at — <a href="https://github.com/oscar223Po?tab=repositories">Repositories</a>
 
-- 💬 Ask me about **HTML (HTML5), CSS (CSS3), JavaScript, SASS, BEM, GULP, WebPack, Reactt**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscar223po&" alt="oscar223po" /></p>
+- 💬 Ask me about **HTML (HTML5), CSS (CSS3), JavaScript, SASS, BEM, GULP, WebPack, React**
