@@ -1,4 +1,4 @@
-<img width="100%" height="auto" alt="videoframe_1305" src="https://github.com/user-attachments/assets/f61197a7-394a-40c1-93f5-9201f9b5897e" />
+<img width="100%" height="auto" alt="Gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWEzb2twMzZ2ajlyMnRvY2I0ZTV1aTRjZWd0aHE2ZGowMTg2NGJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Ebjznpmyt3jrTibmS/giphy.gif" />
 
 # Hi 👋, I'm Oscar Zhantaev
 
