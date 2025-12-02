@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWEzb2twMzZ2ajlyMnRvY2I0ZTV1aTRjZWd0aHE2ZGowMTg2NGJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Ebjznpmyt3jrTibmS/giphy.gif)
+![MasterHead](https://github.com/user-attachments/assets/7c2cbaf2-2706-47d6-a448-81c8d2af9c1a)
 
 # Hi 👋, I'm Oscar Zhantaev
 
