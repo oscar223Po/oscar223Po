@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWEzb2twMzZ2ajlyMnRvY2I0ZTV1aTRjZWd0aHE2ZGowMTg2NGJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Ebjznpmyt3jrTibmS/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;">
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWEzb2twMzZ2ajlyMnRvY2I0ZTV1aTRjZWd0aHE2ZGowMTg2NGJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Ebjznpmyt3jrTibmS/giphy.gif)
 
 # Hi 👋, I'm Oscar Zhantaev
 
