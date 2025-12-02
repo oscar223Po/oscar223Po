@@ -2,21 +2,39 @@
 
 # Hi 👋, I'm Oscar Zhantaev
 
-Frontend UI Developer specializing in building clean, scalable, and visually consistent interfaces.  
-Focused on clarity, structure, and quality in every project.
+Frontend UI Developer focused on clean interfaces, strong structure, and consistent visual logic.  
+I build thoughtful, maintainable, and scalable UI solutions with attention to detail.
 
-### 🔧 Tech Stack
-HTML5 • CSS3 • JavaScript • TypeScript • React  
-SASS • BEM • Gulp • Webpack
+---
 
-### 📂 My Work
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass" height="45" />
+  <img src="https://skillicons.dev/icons?i=webpack,gulp" height="45" />
+</p>
+
+**Also working with:** BEM • UI Architecture • Performance Optimization
+
+---
+
+## 📁 Projects & Profiles
 - <a href="https://github.com/oscar223Po?tab=repositories">GitHub Repositories</a>  
 - <a href="https://kwork.ru/user/frontend_oscar">Freelance Profile (Kwork)</a>  
 - <a href="https://t.me/svyourself">Contact me via Telegram</a>
 
-### 💡 About Me
-Passionate about UI, performance, and thoughtful frontend architecture.  
-Always striving to write code that feels good to work with and easy to maintain.
+---
 
-### ✨ Interesting Fact
-**Jesus Is King**
+## 🎨 What I Do
+- Build responsive and accessible UI  
+- Write structured, scalable frontend architecture  
+- Turn designs into clean, maintainable code  
+- Focus on performance, semantics, and consistency  
+
+---
+
+## ✨ A Little Something Personal
+**Jesus Is King**  
+Minimalism, clarity, and order — in code and in life.
+
+---
