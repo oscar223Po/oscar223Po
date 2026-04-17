@@ -7,9 +7,8 @@ I build thoughtful, maintainable, and scalable UI solutions with attention to de
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="left" style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt" height="45" />
-  <span></span>
   <img src="https://skillicons.dev/icons?i=sass,webpack,gulp,figma,ps" height="45" />
 </p>
 
