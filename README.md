@@ -7,9 +7,8 @@ I build thoughtful, maintainable, and scalable UI solutions with attention to de
 
 ## 🚀 Tech Stack
 
-<p align="left" style="display: flex; gap: 100px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt" height="45" />
-  <img src="https://skillicons.dev/icons?i=sass,webpack,gulp,figma,ps" height="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt,sass,webpack,gulp,figma,ps" height="45" />
 </p>
 
 **Also working with:** BEM • UI Architecture • Performance Optimization
