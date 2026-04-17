@@ -9,6 +9,7 @@ I build thoughtful, maintainable, and scalable UI solutions with attention to de
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt" height="45" />
+  <span></span>
   <img src="https://skillicons.dev/icons?i=sass,webpack,gulp,figma,ps" height="45" />
 </p>
 
