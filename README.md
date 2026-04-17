@@ -1,5 +1,3 @@
-<img width="100%" height="auto" alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRieXkzOW93dXQ0cWo3cW01aHFic3FwbWx2Znk0Z3FkcHBzaHZzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
-
 # Hi 👋, I'm Oscar Zhantaev
 
 Frontend UI Developer focused on clean interfaces, strong structure, and consistent visual logic.  
@@ -40,5 +38,3 @@ Minimalism, clarity, and order — in code and in life.
 ---
 
 <img width="100%" height="auto" alt="Gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWEzb2twMzZ2ajlyMnRvY2I0ZTV1aTRjZWd0aHE2ZGowMTg2NGJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Ebjznpmyt3jrTibmS/giphy.gif" />
-
----
